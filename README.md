@@ -12,12 +12,13 @@ React with different packages and library
 
 
 
-## Authors
+## Contributors
+Thanks to everyone who has submitted issues, made suggestions, and generally helped make this a better project.
 
-- [@akbaruddin](https://www.github.com/akbaruddin)
-- [@muhdanees](https://github.com/muhdanees)
-- [@shahadat321](https://github.com/shahadat321)
-- [@mo-nadeem](https://github.com/mo-nadeem)
+<a href="https://github.com/akbaruddin/react-experiments/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=akbaruddin/react-experiments" />
+</a>
+
 
 ## Contributing
 
