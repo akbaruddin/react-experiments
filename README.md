@@ -10,7 +10,10 @@ React with different packages and library
 - [Next.js + Redux + Persist](./nextjs-redux-persist/)
 - [Next.js + Storybook](./nextjs-storybook/)
 
+## Roadmap
 
+- Next.js + React Query 
+- Next.js + SWR 
 
 ## Contributors
 Thanks to everyone who has submitted issues, made suggestions, and generally helped make this a better project.
